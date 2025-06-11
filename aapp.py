@@ -11,44 +11,50 @@ from gspread_dataframe import set_with_dataframe
 st.set_page_config(page_title="ViralLens - YouTube Analyzer", layout="centered")
 
 st.markdown("""
-<style>
-body {
-    background: linear-gradient(160deg, #ffcccc, #ffd6e0, #e6ccff, #cceeff, #ffffff);
-    background-attachment: fixed;
-}
-.title-container {
-    text-align: center;
-    margin-top: 3rem;
-    margin-bottom: 2rem;
-}
-.title-container h1 {
-    font-size: 3rem;
-    font-weight: 700;
-    margin-bottom: 0.3rem;
-}
-.title-container h3 {
-    font-size: 1.2rem;
-    font-weight: 400;
-    color: #444;
-}
-.stTextInput > div > div > input {
-    background-color: #ffffffdd;
-    border-radius: 8px;
-    padding: 10px;
-}
-.stButton button {
-    background-color: #d9534f;
-    color: white;
-    font-size: 1.1rem;
-    font-weight: bold;
-    border-radius: 10px;
-    padding: 0.6rem 1.5rem;
-    margin-top: 1rem;
-}
-.stButton button:hover {
-    background-color: #c9302c;
-}
-</style>
+    <style>
+    html, body, .main {
+        background: linear-gradient(160deg, #ff9a9e, #fad0c4);
+        background-attachment: fixed;
+    }
+
+    .title-container {
+        text-align: center;
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+
+    .title-container h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        margin-bottom: 0.3rem;
+    }
+
+    .title-container h3 {
+        font-size: 1.2rem;
+        font-weight: 400;
+        color: #444;
+    }
+
+    .stTextInput > div > div > div > input {
+        background-color: #fffffdd;
+        border-radius: 8px;
+        padding: 10px;
+    }
+
+    .stButton button {
+        background-color: #d9534f;
+        color: white;
+        font-size: 1.1rem;
+        font-weight: bold;
+        border-radius: 10px;
+        padding: 0.6rem 1.5rem;
+        margin-top: 1rem;
+    }
+
+    .stButton button:hover {
+        background-color: #c9302c;
+    }
+    </style>
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="title-container"><h1>ViralLens</h1><h3>YouTube Analyzer</h3></div>', unsafe_allow_html=True)
