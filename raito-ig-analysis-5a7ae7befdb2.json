@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "raito-ig-analysis",
+  "private_key_id": "5a7ae7befdb2cf0a2ba726768b9ed73913a3e26e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3HGMmfHz5qvcy\njsjWG3u27Oa/Tcw6seUL00MVR+OAeqIkDY8SgYYo+ulTrhixhP8QXEFcIf/nVVPq\n2sTg555mI9/EIfK/L4BCDKnOeapIq8Yu7rhuooyGGikuC+LfgNbOnOYJgS/PwkxJ\nBsCbzNKon7b/7qqUtqAbDNTVIcPiIZtLc+n4qxiI0JzLFGQAjpKZ9ETzRHNc/fez\npY3sg1459u8ZJsZarUIZR041+wxBNjIIVBZl8bXbCqKHD+Txrd5cYvsygS02LVPe\nZGkUopxGp7lMiYHumcKzhYs0vxwt9FjpN8TwyDwKt2/RQj1rVxyw9WTkks/yKlji\nJNYonK8VAgMBAAECggEAAuJMLK4A3E0CCbM2aV2tDCUdDHd+ncOktnpd7+oRV9Ow\nPBGIM4o3Guwgwqc9glMOHvhxzkngZiKLTzahq5bAtIRTuoFIxnp9paZENZlOKK9A\nttQef+rIr2meeAT95/eqhAr0LVzyHzteYjdCz1fH6M0v+UX0CW8uHfiMw/9ji2sy\ndSbJD88bI9Lpo/XEpKXJ0zXf5xcYsGSsFpiwu52PKrnW6rhscpVcTIj3G0LcwLZZ\naU60S7eV9B/5bVmvazO3UGAs1S/2fYEpK5Ai+Dt+0sA6e4HEWt8Sn/RrSMMgzJQK\n+Ph0qynPLhOUwVAgaZJ0yLQZbGmXgrskLccbD0XV3QKBgQDiJzMmm0Ty6REa8arM\n2nBA905rDuFsLPC29UKSO7H7fL0kmN8BrqwaOO72WlpzLuTebLYiJLXcB0QfgwNQ\nytfIy5bEHXul8dROZ1yO+LnVIBc1M5DUDVcEzHc+S5RAQ8A7C4vQ+/+ymCRDaaeT\ni/fMt8iYu1PMQRqkZcXXQDHeDwKBgQDPRvbaCOJEDEQUW54edh6ym+1AR/CZfmJZ\n4BJ+0HEPu4mkEaGbWdw7GTk7YR2+CCxkNfPEIoJrCWn3AX3UXZ0pPDPuuJAmIMUW\nWUrIaJQ9sJikgRNM8lEzs84ng9NrPZNRDXtVH5I8ZKVrYH2dZdQWl8i3mQwKtGvj\nrZsOMN0EmwKBgBdw6rtgsrfe8pfxXrvXFHWXbLhqFXGKAvVj3J+dsmgX2N8XPV5G\nRa5+Ij7ExMVVogFwETzewz7oPeZqRQi1zcIRYDI5wBxGQbRSwGRNYa22otEv5B4m\nt9NWgjGh0d8LZrx4COkDhdB0NqYKKIWBp5C/p/o0yI3OXb2WkvgpvkF/AoGABeBb\nKz9JOuimHXWje/WZVTL6fPINLizZGPczTwkVy35jnpUpYcAgcER8zOQp9bNBnu2w\npYTc8a/ooyoVqSmmRP8B8eilnY8cR0/swNXGLiGNkkxegbX0+2RDmfcwzT+Hp6qc\nLoOgn7myvuKTbRzv8FwJQrtCDiOjU2cemD5mZbUCgYA0pf0R0tcETuf9nNsbTgd1\nMHnvW1i8VgN2z/tr2s2GqskKIVtLujrC91VNHg/P6wswqfo8P0UwQmkhbm9AyXUF\n8z/o1bBMz5q7HqZlz4e2laZ8D8tEg9AL/vZ+7VmRoH1yiFMdHGy79VN9tqH92lyu\nqjGYlGHMLpbHtqOtKor5lg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "igbotaccess@raito-ig-analysis.iam.gserviceaccount.com",
+  "client_id": "114096031488852660153",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/igbotaccess%40raito-ig-analysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
